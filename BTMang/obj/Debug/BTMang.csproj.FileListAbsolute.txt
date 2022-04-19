@@ -1,0 +1,7 @@
+F:\BT-C#\BTMang\bin\Debug\BTMang.exe.config
+F:\BT-C#\BTMang\bin\Debug\BTMang.exe
+F:\BT-C#\BTMang\bin\Debug\BTMang.pdb
+F:\BT-C#\BTMang\obj\Debug\BTMang.csproj.AssemblyReference.cache
+F:\BT-C#\BTMang\obj\Debug\BTMang.csproj.CoreCompileInputs.cache
+F:\BT-C#\BTMang\obj\Debug\BTMang.exe
+F:\BT-C#\BTMang\obj\Debug\BTMang.pdb

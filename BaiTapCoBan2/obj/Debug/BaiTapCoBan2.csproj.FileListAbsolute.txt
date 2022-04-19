@@ -1,0 +1,7 @@
+F:\BT-C#\BaiTapCoBan2\obj\Debug\BaiTapCoBan2.csproj.AssemblyReference.cache
+F:\BT-C#\BaiTapCoBan2\obj\Debug\BaiTapCoBan2.csproj.CoreCompileInputs.cache
+F:\BT-C#\BaiTapCoBan2\bin\Debug\BaiTapCoBan2.exe.config
+F:\BT-C#\BaiTapCoBan2\bin\Debug\BaiTapCoBan2.exe
+F:\BT-C#\BaiTapCoBan2\bin\Debug\BaiTapCoBan2.pdb
+F:\BT-C#\BaiTapCoBan2\obj\Debug\BaiTapCoBan2.exe
+F:\BT-C#\BaiTapCoBan2\obj\Debug\BaiTapCoBan2.pdb

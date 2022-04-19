@@ -1,0 +1,7 @@
+F:\BT-C#\BaiTapCoBan_2050531200320_LeHoangAnhTuan\bin\Debug\BaiTapCoBan_2050531200320_LeHoangAnhTuan.exe.config
+F:\BT-C#\BaiTapCoBan_2050531200320_LeHoangAnhTuan\bin\Debug\BaiTapCoBan_2050531200320_LeHoangAnhTuan.exe
+F:\BT-C#\BaiTapCoBan_2050531200320_LeHoangAnhTuan\bin\Debug\BaiTapCoBan_2050531200320_LeHoangAnhTuan.pdb
+F:\BT-C#\BaiTapCoBan_2050531200320_LeHoangAnhTuan\obj\Debug\BaiTapCoBan_2050531200320_LeHoangAnhTuan.csproj.AssemblyReference.cache
+F:\BT-C#\BaiTapCoBan_2050531200320_LeHoangAnhTuan\obj\Debug\BaiTapCoBan_2050531200320_LeHoangAnhTuan.csproj.CoreCompileInputs.cache
+F:\BT-C#\BaiTapCoBan_2050531200320_LeHoangAnhTuan\obj\Debug\BaiTapCoBan_2050531200320_LeHoangAnhTuan.exe
+F:\BT-C#\BaiTapCoBan_2050531200320_LeHoangAnhTuan\obj\Debug\BaiTapCoBan_2050531200320_LeHoangAnhTuan.pdb

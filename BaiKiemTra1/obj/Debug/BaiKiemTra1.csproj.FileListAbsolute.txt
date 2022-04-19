@@ -1,0 +1,7 @@
+F:\BT-C#\BaiKiemTra1\bin\Debug\BaiKiemTra1.exe.config
+F:\BT-C#\BaiKiemTra1\bin\Debug\BaiKiemTra1.exe
+F:\BT-C#\BaiKiemTra1\bin\Debug\BaiKiemTra1.pdb
+F:\BT-C#\BaiKiemTra1\obj\Debug\BaiKiemTra1.csproj.AssemblyReference.cache
+F:\BT-C#\BaiKiemTra1\obj\Debug\BaiKiemTra1.csproj.CoreCompileInputs.cache
+F:\BT-C#\BaiKiemTra1\obj\Debug\BaiKiemTra1.exe
+F:\BT-C#\BaiKiemTra1\obj\Debug\BaiKiemTra1.pdb

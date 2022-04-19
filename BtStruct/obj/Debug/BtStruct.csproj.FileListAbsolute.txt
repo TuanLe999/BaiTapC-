@@ -1,0 +1,7 @@
+F:\BT-C#\BtStruct\bin\Debug\BtStruct.exe.config
+F:\BT-C#\BtStruct\bin\Debug\BtStruct.exe
+F:\BT-C#\BtStruct\bin\Debug\BtStruct.pdb
+F:\BT-C#\BtStruct\obj\Debug\BtStruct.csproj.AssemblyReference.cache
+F:\BT-C#\BtStruct\obj\Debug\BtStruct.csproj.CoreCompileInputs.cache
+F:\BT-C#\BtStruct\obj\Debug\BtStruct.exe
+F:\BT-C#\BtStruct\obj\Debug\BtStruct.pdb
