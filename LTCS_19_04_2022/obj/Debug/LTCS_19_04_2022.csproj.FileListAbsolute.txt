@@ -1,0 +1,7 @@
+F:\BT-C#\LTCS_19_04_2022\bin\Debug\LTCS_19_04_2022.exe.config
+F:\BT-C#\LTCS_19_04_2022\bin\Debug\LTCS_19_04_2022.exe
+F:\BT-C#\LTCS_19_04_2022\bin\Debug\LTCS_19_04_2022.pdb
+F:\BT-C#\LTCS_19_04_2022\obj\Debug\LTCS_19_04_2022.csproj.AssemblyReference.cache
+F:\BT-C#\LTCS_19_04_2022\obj\Debug\LTCS_19_04_2022.csproj.CoreCompileInputs.cache
+F:\BT-C#\LTCS_19_04_2022\obj\Debug\LTCS_19_04_2022.exe
+F:\BT-C#\LTCS_19_04_2022\obj\Debug\LTCS_19_04_2022.pdb
