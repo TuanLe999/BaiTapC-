@@ -1,0 +1,7 @@
+C:\Users\ACER\OneDrive\Máy tính\BaiTapC-\BaiTap10-5\obj\Debug\BaiTap10-5.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Máy tính\BaiTapC-\BaiTap10-5\obj\Debug\BaiTap10-5.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Máy tính\BaiTapC-\BaiTap10-5\bin\Debug\BaiTap10-5.exe.config
+C:\Users\ACER\OneDrive\Máy tính\BaiTapC-\BaiTap10-5\bin\Debug\BaiTap10-5.exe
+C:\Users\ACER\OneDrive\Máy tính\BaiTapC-\BaiTap10-5\bin\Debug\BaiTap10-5.pdb
+C:\Users\ACER\OneDrive\Máy tính\BaiTapC-\BaiTap10-5\obj\Debug\BaiTap10-5.exe
+C:\Users\ACER\OneDrive\Máy tính\BaiTapC-\BaiTap10-5\obj\Debug\BaiTap10-5.pdb
